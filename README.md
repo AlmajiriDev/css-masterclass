@@ -1,6 +1,6 @@
 # CSS Masterclass
 
-> A self-paced, beginner-friendly deep-dive into pure CSS — built for a teacher and her student.
+> A self-paced, beginner-friendly deep-dive into pure CSS — built for a teacher and his student.
 
 Welcome! This course takes the student from "I have heard of CSS" to "I can confidently style a responsive website from scratch." Every lesson explains **what** to do, **why** it works, and uses a simple **analogy** the student can picture in her head.
 
